@@ -1,0 +1,21 @@
+{
+  "name": "quiz-app-api",
+  "version": "0.0.1",
+  "description": "API for Quiz app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Parkavi Muthaiyan",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "mysql2": "^3.3.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
