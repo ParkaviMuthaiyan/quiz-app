@@ -1,0 +1,23 @@
+.button {
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    border-radius: 50rem;
+    outline: none;
+    background: none;
+    color: #141414;
+    border: 1px solid #0f62ce;
+    margin-bottom: 10px;
+}
+
+.button:hover {
+    background: #10bd27;
+    border: 1px solid #10bd27;
+    color: #ffffff;
+}
+
+.button.selected {
+    background: #0f62ce;
+    border: 1px solid #0f62ce;
+    color: #ffffff;
+}
