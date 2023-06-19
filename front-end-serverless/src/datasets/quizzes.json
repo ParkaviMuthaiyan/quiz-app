@@ -1,0 +1,1322 @@
+[
+    {
+        "id": 1,
+        "question": "Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+        "answer": "b",
+        "options": {
+            "a": "Microsoft",
+            "b": "Apple",
+            "c": "Atari",
+            "d": "Commodore"
+        }
+    },
+    {
+        "id": 2,
+        "question": "In any programming language, what is the most common way to iterate through an array?",
+        "answer": "d",
+        "options": {
+            "a": "&#039;If&#039; Statements",
+            "b": "&#039;Do-while&#039; loops",
+            "c": "&#039;While&#039; loops",
+            "d": "&#039;For&#039; loops"
+        }
+    },
+    {
+        "id": 3,
+        "question": "What does CPU stand for?",
+        "answer": "d",
+        "options": {
+            "a": "Central Process Unit",
+            "b": "Computer Personal Unit",
+            "c": "Central Processor Unit",
+            "d": "Central Processing Unit"
+        }
+    },
+    {
+        "id": 4,
+        "question": "What does the &quot;MP&quot; stand for in MP3?",
+        "answer": "b",
+        "options": {
+            "a": "Music Player",
+            "b": "Moving Picture",
+            "c": "Multi Pass",
+            "d": "Micro Point"
+        }
+    },
+    {
+        "id": 5,
+        "question": "According to the International System of Units, how many bytes are in a kilobyte of RAM?",
+        "answer": "a",
+        "options": {
+            "a": "1000",
+            "b": "512",
+            "c": "1024",
+            "d": "500"
+        }
+    },
+    {
+        "id": 6,
+        "question": "When Gmail first launched, how much storage did it provide for your email?",
+        "answer": "d",
+        "options": {
+            "a": "512MB",
+            "b": "5GB",
+            "c": "Unlimited",
+            "d": "1GB"
+        }
+    },
+    {
+        "id": 7,
+        "question": "What does GHz stand for?",
+        "answer": "d",
+        "options": {
+            "a": "Gigahotz",
+            "b": "Gigahetz",
+            "c": "Gigahatz",
+            "d": "Gigahertz"
+        }
+    },
+    {
+        "id": 8,
+        "question": "HTML is what type of language?",
+        "answer": "c",
+        "options": {
+            "a": "Macro Language",
+            "b": "Programming Language",
+            "c": "Markup Language",
+            "d": "Scripting Language"
+        }
+    },
+    {
+        "id": 9,
+        "question": "What amount of bits commonly equals one byte?",
+        "answer": "b",
+        "options": {
+            "a": "1",
+            "b": "8",
+            "c": "2",
+            "d": "64"
+        }
+    },
+    {
+        "id": 10,
+        "question": "In the programming language Java, which of these keywords would you put on a variable to make sure it doesn&#039;t get dified?",
+        "answer": "b",
+        "options": {
+            "a": "Static",
+            "b": "Final",
+            "c": "Private",
+            "d": "Public"
+        }
+    },
+    {
+        "id": 11,
+        "question": "If you were to code software in this language you&#039;d only be able to type 0&#039;s and 1&#039;s.",
+        "answer": "a",
+        "options": {
+            "a": "Binary",
+            "b": "JavaScript",
+            "c": "C++",
+            "d": "Python"
+        }
+    },
+    {
+        "id": 12,
+        "question": "The series of the Intel HD graphics generation succeeding that of the 5000 and 6000 series (Broadwell) is called:",
+        "answer": "d",
+        "options": {
+            "a": "HD Graphics 700 ",
+            "b": "HD Graphics 600",
+            "c": "HD Graphics 7000",
+            "d": "HD Graphics 500"
+        }
+    },
+    {
+        "id": 13,
+        "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+        "answer": "d",
+        "options": {
+            "a": ".png",
+            "b": ".jpeg",
+            "c": ".gif",
+            "d": ".svg"
+        }
+    },
+    {
+        "id": 14,
+        "question": "In web design, what does CSS stand for?",
+        "answer": "c",
+        "options": {
+            "a": "Counter Strike: Source",
+            "b": "Corrective Style Sheet",
+            "c": "Cascading Style Sheet",
+            "d": "Computer Style Sheet"
+        }
+    },
+    {
+        "id": 15,
+        "question": "What is the domain name for the country Tuvalu?",
+        "answer": "b",
+        "options": {
+            "a": ".tu",
+            "b": ".tv",
+            "c": ".tt",
+            "d": ".tl"
+        }
+    },
+    {
+        "id": 16,
+        "question": "In &quot;Hexadecimal&quot;, what color would be displayed from the color code? &quot;#00FF00&quot;?",
+        "answer": "d",
+        "options": {
+            "a": "Red",
+            "b": "Blue",
+            "c": "Yellow",
+            "d": "Green"
+        }
+    },
+    {
+        "id": 17,
+        "question": "Which computer language would you associate Django framework with?",
+        "answer": "b",
+        "options": {
+            "a": "C#",
+            "b": "Python",
+            "c": "C++",
+            "d": "Java"
+        }
+    },
+    {
+        "id": 18,
+        "question": "What does LTS stand for in the software market?",
+        "answer": "d",
+        "options": {
+            "a": "Long Taco Service",
+            "b": "Ludicrous Transfer Speed",
+            "c": "Ludicrous Turbo Speed",
+            "d": "Long Term Support"
+        }
+    },
+    {
+        "id": 19,
+        "question": "The numbering system with a radix of 16 is more commonly referred to as ",
+        "answer": "a",
+        "options": {
+            "a": "Hexidecimal",
+            "b": "Binary",
+            "c": "Duodecimal",
+            "d": "Octal"
+        }
+    },
+    {
+        "id": 20,
+        "question": "This mobile OS held the largest market share in 2012.",
+        "answer": "c",
+        "options": {
+            "a": "Android",
+            "b": "BlackBerry",
+            "c": "iOS",
+            "d": "Symbian"
+        }
+    },
+    {
+        "id": 21,
+        "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&y;gogo&shy;goch&quot;?",
+        "answer": "c",
+        "options": {
+            "a": "Moldova",
+            "b": "Czech Republic",
+            "c": "Wales",
+            "d": "Denmark"
+        }
+    },
+    {
+        "id": 22,
+        "question": "What is the most common surname Wales?",
+        "answer": "c",
+        "options": {
+            "a": "Williams",
+            "b": "Davies",
+            "c": "Jones",
+            "d": "Evans"
+        }
+    },
+    {
+        "id": 23,
+        "question": "What is the first book of the Old Testament?",
+        "answer": "c",
+        "options": {
+            "a": "Exodus",
+            "b": "Leviticus",
+            "c": "Genesis",
+            "d": "Numbers"
+        }
+    },
+    {
+        "id": 24,
+        "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+        "answer": "c",
+        "options": {
+            "a": "Sword",
+            "b": "Pen",
+            "c": "Key",
+            "d": "Cellphone"
+        }
+    },
+    {
+        "id": 25,
+        "question": "What does a funambulist walk on?",
+        "answer": "d",
+        "options": {
+            "a": "Broken Glass",
+            "b": "Balls",
+            "c": "The Moon",
+            "d": "A Tight Rope"
+        }
+    },
+    {
+        "id": 26,
+        "question": "In past times, what would a gentleman keep in his fob pocket?",
+        "answer": "d",
+        "options": {
+            "a": "Money",
+            "b": "Keys",
+            "c": "Notebook",
+            "d": "Watch"
+        }
+    },
+    {
+        "id": 27,
+        "question": "Area 51 is located in which US state?",
+        "answer": "b",
+        "options": {
+            "a": "Arizona",
+            "b": "Nevada",
+            "c": "New Mexico",
+            "d": "Utah"
+        }
+    },
+    {
+        "id": 28,
+        "question": "On a dartboard, what number is directly opposite No. 1?",
+        "answer": "b",
+        "options": {
+            "a": "20",
+            "b": "19",
+            "c": "12",
+            "d": "15"
+        }
+    },
+    {
+        "id": 29,
+        "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+        "answer": "d",
+        "options": {
+            "a": "Target",
+            "b": "Taxi",
+            "c": "Turkey",
+            "d": "Tango"
+        }
+    },
+    {
+        "id": 30,
+        "question": "What geometric shape is generally used for stop signs?",
+        "answer": "d",
+        "options": {
+            "a": "Hexagon",
+            "b": "Circle",
+            "c": "Triangle",
+            "d": "Octagon"
+        }
+    },
+    {
+        "id": 31,
+        "question": "What is the name of the Jewish New Year?",
+        "answer": "b",
+        "options": {
+            "a": "Elul",
+            "b": "Rosh Hashanah",
+            "c": "New Year",
+            "d": "Succoss"
+        }
+    },
+    {
+        "id": 32,
+        "question": "Which one of the following rhythm games was made by Harmonix?",
+        "answer": "b",
+        "options": {
+            "a": "Meat Beat Mania",
+            "b": "Rock Band",
+            "c": "Guitar Hero Live",
+            "d": "Dance Dance Revolution"
+        }
+    },
+    {
+        "id": 33,
+        "question": "How many colors are there in a rainbow?",
+        "answer": "b",
+        "options": {
+            "a": "8",
+            "b": "7",
+            "c": "9",
+            "d": "10"
+        }
+    },
+    {
+        "id": 34,
+        "question": "Red Vines is a brand of what type of candy?",
+        "answer": "d",
+        "options": {
+            "a": "Lollipop",
+            "b": "Chocolate",
+            "c": "Bubblegum",
+            "d": "Licorice"
+        }
+    },
+    {
+        "id": 35,
+        "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+        "answer": "d",
+        "options": {
+            "a": "Designer clothing",
+            "b": "Unreleased film reels",
+            "c": "Vintage cars",
+            "d": "Wax sculptures"
+        }
+    },
+    {
+        "id": 36,
+        "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+        "answer": "b",
+        "options": {
+            "a": "Noah&#039;s Ark",
+            "b": "Spruce Goose",
+            "c": "Fat Man",
+            "d": "Trojan Horse"
+        }
+    },
+    {
+        "id": 37,
+        "question": "Which restaurant&#039;s mascot is a clown?",
+        "answer": "d",
+        "options": {
+            "a": "Whataburger",
+            "b": "Burger King",
+            "c": "Sonic",
+            "d": "McDonald&#039;s"
+        }
+    },
+    {
+        "id": 38,
+        "question": "What color is the &quot;Ex&quot; in FedEx Ground?",
+        "answer": "c",
+        "options": {
+            "a": "Red",
+            "b": "Light Blue",
+            "c": "Green",
+            "d": "Orange"
+        }
+    },
+    {
+        "id": 39,
+        "question": "What is Tasmania?",
+        "answer": "c",
+        "options": {
+            "a": "A flavor of Ben and Jerry&#039;s ice-cream",
+            "b": "A Psychological Disorder",
+            "c": "An Australian State",
+            "d": "The Name of a Warner Brothers Cartoon Character"
+        }
+    },
+    {
+        "id": 40,
+        "question": "What company developed the vocaloid Hatsune Miku?",
+        "answer": "c",
+        "options": {
+            "a": "Sega",
+            "b": "Sony",
+            "c": "Crypton Future Media",
+            "d": "Yamaha Corporation"
+        }
+    },
+    {
+        "id": 41,
+        "question": "In the  Rossini opera, what was the name of &#039;The Barber of Seville&#039;?",
+        "answer": "a",
+        "options": {
+            "a": "Figaro",
+            "b": "Angelo",
+            "c": "Fernando",
+            "d": "Dave"
+        }
+    },
+    {
+        "id": 42,
+        "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+        "answer": "c",
+        "options": {
+            "a": "Wu-Tang Clan",
+            "b": "Run-D.M.C.",
+            "c": "N.W.A",
+            "d": "Beastie Boys"
+        }
+    },
+    {
+        "id": 43,
+        "question": "How many members are there in the band Nirvana?",
+        "answer": "a",
+        "options": {
+            "a": "Three",
+            "b": "Two",
+            "c": "Four",
+            "d": "Five"
+        }
+    },
+    {
+        "id": 44,
+        "question": "What is the name of the album released in 2014 by American band Maroon 5?",
+        "answer": "b",
+        "options": {
+            "a": "X",
+            "b": "V",
+            "c": "III",
+            "d": "IV"
+        }
+    },
+    {
+        "id": 45,
+        "question": "Which famous rapper is featured in Jack &Uuml; (Skrillex and Diplo)&#039;s 2015 single called &quot;Febreze&quot;?",
+        "answer": "b",
+        "options": {
+            "a": "Kendrick Lamar",
+            "b": "2 Chainz",
+            "c": "Future",
+            "d": "Fatman Scoop"
+        }
+    },
+    {
+        "id": 46,
+        "question": "What is the name of Finnish DJ Darude&#039;s hit single released in October 1999?",
+        "answer": "c",
+        "options": {
+            "a": "Dust Devil",
+            "b": "Sirocco",
+            "c": "Sandstorm",
+            "d": "Khamsin"
+        }
+    },
+    {
+        "id": 47,
+        "question": "Brian May was the guitarist for which band?",
+        "answer": "d",
+        "options": {
+            "a": "Pink Floyd",
+            "b": "Rolling Stones",
+            "c": "The Doors",
+            "d": "Queen"
+        }
+    },
+    {
+        "id": 48,
+        "question": "Which of these is NOT the name of an album released by English singer-songwriter Adele?",
+        "answer": "d",
+        "options": {
+            "a": "19",
+            "b": "21",
+            "c": "25",
+            "d": "12"
+        }
+    },
+    {
+        "id": 49,
+        "question": "In Mean Girls, who has breasts that tell when it&#039;s raining?",
+        "answer": "a",
+        "options": {
+            "a": "Karen Smith",
+            "b": "Gretchen Weiners",
+            "c": "Janice Ian",
+            "d": "Cady Heron"
+        }
+    },
+    {
+        "id": 50,
+        "question": "Which Beatles album does NOT feature any of the band members on it&#039;s cover?",
+        "answer": "c",
+        "options": {
+            "a": "Rubber Soul",
+            "b": "Abbey Road",
+            "c": "The Beatles (White Album)",
+            "d": "Magical Mystery Tour"
+        }
+    },
+    {
+        "id": 51,
+        "question": "Which of these is the name of a song by Tears for Fears?",
+        "answer": "d",
+        "options": {
+            "a": "Scream",
+            "b": "Yell",
+            "c": "Shriek",
+            "d": "Shout"
+        }
+    },
+    {
+        "id": 52,
+        "question": "From which country did the song &quot;Gangnam Style&quot; originate from?",
+        "answer": "c",
+        "options": {
+            "a": "Japan",
+            "b": "North Korea",
+            "c": "South Korea",
+            "d": "China"
+        }
+    },
+    {
+        "id": 53,
+        "question": "Which Disney character sings the song &quot;A Dream is a Wish Your Heart Makes&quot;?",
+        "answer": "c",
+        "options": {
+            "a": "Belle",
+            "b": "Snow White",
+            "c": "Cinderella",
+            "d": "Pocahontas"
+        }
+    },
+    {
+        "id": 54,
+        "question": "Kanye West&#039;s &quot;Gold Digger&quot; featured which Oscar-winning actor?",
+        "answer": "a",
+        "options": {
+            "a": "Jamie Foxx",
+            "b": "Alec Baldwin",
+            "c": "Dwayne Johnson",
+            "d": " Bruce Willis"
+        }
+    },
+    {
+        "id": 55,
+        "question": "Who was featured in the song &quot;Words&quot; by Feint? ",
+        "answer": "d",
+        "options": {
+            "a": "Anna Yvette ",
+            "b": "Danyka Nadeau",
+            "c": "Veela",
+            "d": "Laura Brehm"
+        }
+    },
+    {
+        "id": 56,
+        "question": "What was the best selling album of 2015?",
+        "answer": "d",
+        "options": {
+            "a": "Fetty Wap, Fetty Wap",
+            "b": "Taylor Swift, 1989",
+            "c": "Justin Bieber, Purpose",
+            "d": "Adele, 25"
+        }
+    },
+    {
+        "id": 57,
+        "question": "When was Gangnam Style uploaded to YouTube?",
+        "answer": "d",
+        "options": {
+            "a": "2013",
+            "b": "2014",
+            "c": "2011",
+            "d": "2012"
+        }
+    },
+    {
+        "id": 58,
+        "question": "Which band recorded the album &quot;Parallel Lines&quot;?",
+        "answer": "b",
+        "options": {
+            "a": "Paramore",
+            "b": "Blondie",
+            "c": "Coldplay",
+            "d": "The Police"
+        }
+    },
+    {
+        "id": 59,
+        "question": "The band Muse released their first album, Showbiz, in what year?",
+        "answer": "c",
+        "options": {
+            "a": "1998",
+            "b": "2000",
+            "c": "1999",
+            "d": "2001"
+        }
+    },
+    {
+        "id": 60,
+        "question": "What is the frontman&#039;s name of the metal band Megadeth?",
+        "answer": "c",
+        "options": {
+            "a": "Rob Halford",
+            "b": "Vince Neil",
+            "c": "Dave Mustaine",
+            "d": "James Hetfield"
+        }
+    },
+    {
+        "id": 61,
+        "question": "Which Apollo mission was the first one to land on the Moon?",
+        "answer": "a",
+        "options": {
+            "a": "Apollo 11",
+            "b": "Apollo 10",
+            "c": "Apollo 9",
+            "d": "Apollo 13"
+        }
+    },
+    {
+        "id": 62,
+        "question": "Which of the following bones is not in the leg?",
+        "answer": "d",
+        "options": {
+            "a": "Patella",
+            "b": "Tibia",
+            "c": "Fibula ",
+            "d": "Radius"
+        }
+    },
+    {
+        "id": 63,
+        "question": "Which of these bones is hardest to break?",
+        "answer": "b",
+        "options": {
+            "a": "Cranium",
+            "b": "Femur",
+            "c": "Humerus",
+            "d": "Tibia"
+        }
+    },
+    {
+        "id": 64,
+        "question": "What does the letter &#039;S&#039; stand for in &#039;NASA&#039;?",
+        "answer": "d",
+        "options": {
+            "a": "Science",
+            "b": "Society",
+            "c": "Star",
+            "d": "Space"
+        }
+    },
+    {
+        "id": 65,
+        "question": "Which element has the chemical symbol &#039;Fe&#039;?",
+        "answer": "d",
+        "options": {
+            "a": "Gold",
+            "b": "Silver",
+            "c": "Tin",
+            "d": "Iron"
+        }
+    },
+    {
+        "id": 66,
+        "question": "Which type of rock is created by intense heat AND pressure?",
+        "answer": "b",
+        "options": {
+            "a": "Sedimentary",
+            "b": "Metamorphic",
+            "c": "Igneous",
+            "d": "Diamond"
+        }
+    },
+    {
+        "id": 67,
+        "question": "This element, when overcome with extreme heat and pressure, creates diamonds.",
+        "answer": "c",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Oxygen",
+            "c": "Carbon",
+            "d": "Hydrogen"
+        }
+    },
+    {
+        "id": 68,
+        "question": "Which gas forms about 78% of the Earth&rsquo;s atmosphere?",
+        "answer": "a",
+        "options": {
+            "a": "Nitrogen",
+            "b": "Oxygen",
+            "c": "Argon",
+            "d": "Carbon Dioxide"
+        }
+    },
+    {
+        "id": 69,
+        "question": "What is the powerhouse of the cell?",
+        "answer": "b",
+        "options": {
+            "a": "Ribosome",
+            "b": "Mitochondria",
+            "c": "Redbull",
+            "d": "Nucleus"
+        }
+    },
+    {
+        "id": 70,
+        "question": "What is the chemical makeup of water?",
+        "answer": "b",
+        "options": {
+            "a": "C12H6O2",
+            "b": "H20",
+            "c": "CO2",
+            "d": "H"
+        }
+    },
+    {
+        "id": 71,
+        "question": "Who is the chemical element Curium named after?",
+        "answer": "c",
+        "options": {
+            "a": "The Curiosity Rover",
+            "b": "Curious George",
+            "c": "Marie &amp; Pierre Curie",
+            "d": "Stephen Curry"
+        }
+    },
+    {
+        "id": 72,
+        "question": "The human heart has how many chambers?",
+        "answer": "d",
+        "options": {
+            "a": "2",
+            "b": "6",
+            "c": "3",
+            "d": "4"
+        }
+    },
+    {
+        "id": 73,
+        "question": "The asteroid belt is located between which two planets?",
+        "answer": "c",
+        "options": {
+            "a": "Jupiter and Saturn",
+            "b": "Mercury and Venus",
+            "c": "Mars and Jupiter",
+            "d": "Earth and Mars"
+        }
+    },
+    {
+        "id": 74,
+        "question": "Human cells typically have how many copies of each gene?",
+        "answer": "a",
+        "options": {
+            "a": "2",
+            "b": "1",
+            "c": "4",
+            "d": "3"
+        }
+    },
+    {
+        "id": 75,
+        "question": "Which is the most abundant element in the universe?",
+        "answer": "d",
+        "options": {
+            "a": "Helium",
+            "b": "Lithium",
+            "c": "Oxygen",
+            "d": "Hydrogen"
+        }
+    },
+    {
+        "id": 76,
+        "question": "The biggest distinction between a eukaryotic cell and a prokaryotic cell is:",
+        "answer": "a",
+        "options": {
+            "a": "The presence or absence of a nucleus",
+            "b": "The overall size",
+            "c": "The presence or absence of certain organelles",
+            "d": "The mode of reproduction"
+        }
+    },
+    {
+        "id": 77,
+        "question": "Which element has the highest melting point?",
+        "answer": "d",
+        "options": {
+            "a": "Tungsten",
+            "b": "Platinum",
+            "c": "Osmium",
+            "d": "Carbon"
+        }
+    },
+    {
+        "id": 78,
+        "question": "How many chromosomes are in your body cells?",
+        "answer": "a",
+        "options": {
+            "a": "23",
+            "b": "21",
+            "c": "22",
+            "d": "24"
+        }
+    },
+    {
+        "id": 79,
+        "question": "What is the standard atomic weight of a Plutonium nucleus?",
+        "answer": "a",
+        "options": {
+            "a": "244",
+            "b": "94",
+            "c": "481",
+            "d": "128"
+        }
+    },
+    {
+        "id": 80,
+        "question": "71% of the Earth&#039;s surface is made up of",
+        "answer": "b",
+        "options": {
+            "a": "Deserts",
+            "b": "Water",
+            "c": "Continents",
+            "d": "Forests"
+        }
+    },
+    {
+        "id": 81,
+        "question": "How many times did Martina Navratilova win the Wimbledon Singles Championship?",
+        "answer": "b",
+        "options": {
+            "a": "Ten",
+            "b": "Nine",
+            "c": "Seven",
+            "d": "Eight"
+        }
+    },
+    {
+        "id": 82,
+        "question": "In golf, what name is given to a hole score of two under par?",
+        "answer": "c",
+        "options": {
+            "a": "Birdie",
+            "b": "Bogey",
+            "c": "Eagle",
+            "d": "Albatross"
+        }
+    },
+    {
+        "id": 83,
+        "question": "How many soccer players should be on the field at the same time?",
+        "answer": "c",
+        "options": {
+            "a": "20",
+            "b": "24",
+            "c": "22",
+            "d": "26"
+        }
+    },
+    {
+        "id": 84,
+        "question": "In what sport is a &quot;shuttlecock&quot; used?",
+        "answer": "b",
+        "options": {
+            "a": "Table Tennis",
+            "b": "Badminton",
+            "c": "Rugby",
+            "d": "Cricket"
+        }
+    },
+    {
+        "id": 85,
+        "question": "Which team won the 2015-16 English Premier League?",
+        "answer": "a",
+        "options": {
+            "a": "Leicester City",
+            "b": "Liverpool",
+            "c": "Cheslea",
+            "d": "Manchester United"
+        }
+    },
+    {
+        "id": 86,
+        "question": "The Rio 2016 Summer Olympics held it&#039;s closing ceremony on what date?",
+        "answer": "d",
+        "options": {
+            "a": "August 23",
+            "b": "August 19",
+            "c": "August 17",
+            "d": "August 21"
+        }
+    },
+    {
+        "id": 87,
+        "question": "Which country is hosting the 2018 FIFA World Cup?",
+        "answer": "c",
+        "options": {
+            "a": "Germany",
+            "b": "United States",
+            "c": "Russia",
+            "d": "Saudi Arabia"
+        }
+    },
+    {
+        "id": 88,
+        "question": "Who won the 2015 Formula 1 World Championship?",
+        "answer": "a",
+        "options": {
+            "a": "Lewis Hamilton",
+            "b": "Nico Rosberg",
+            "c": "Sebastian Vettel",
+            "d": "Jenson Button"
+        }
+    },
+    {
+        "id": 89,
+        "question": "Which driver has been the Formula 1 world champion for a record 7 times?",
+        "answer": "b",
+        "options": {
+            "a": "Ayrton Senna",
+            "b": "Michael Schumacher",
+            "c": "Fernando Alonso",
+            "d": "Jim Clark"
+        }
+    },
+    {
+        "id": 90,
+        "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+        "answer": "a",
+        "options": {
+            "a": "7 - 1",
+            "b": "0 - 1",
+            "c": "3 - 4",
+            "d": "16 - 0"
+        }
+    },
+    {
+        "id": 91,
+        "question": "Which team won 2014 FIFA World Cup in Brazil?",
+        "answer": "a",
+        "options": {
+            "a": "Germany",
+            "b": "Argentina",
+            "c": "Brazil",
+            "d": "Netherlands"
+        }
+    },
+    {
+        "id": 92,
+        "question": "How many points did LeBron James score in his first NBA game?",
+        "answer": "c",
+        "options": {
+            "a": "19",
+            "b": "69",
+            "c": "25",
+            "d": "41"
+        }
+    },
+    {
+        "id": 93,
+        "question": "In Baseball, how many times does the ball have to be pitched outside of the strike zone before the batter is walked?",
+        "answer": "d",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4"
+        }
+    },
+    {
+        "id": 94,
+        "question": "Who won the 2016 Formula 1 World Driver&#039;s Championship?",
+        "answer": "d",
+        "options": {
+            "a": "Lewis Hamilton",
+            "b": "Max Verstappen",
+            "c": "Kimi Raikkonen",
+            "d": "Nico Rosberg"
+        }
+    },
+    {
+        "id": 95,
+        "question": "Which city did the former NHL team &quot;The Nordiques&quot; originiate from?",
+        "answer": "b",
+        "options": {
+            "a": "Houston",
+            "b": "Quebec City",
+            "c": "Montreal",
+            "d": "New York"
+        }
+    },
+    {
+        "id": 96,
+        "question": "What team won the 2016 MLS Cup?",
+        "answer": "a",
+        "options": {
+            "a": "Seattle Sounders",
+            "b": "Colorado Rapids",
+            "c": "Toronto FC",
+            "d": "Montreal Impact"
+        }
+    },
+    {
+        "id": 97,
+        "question": "What year did the New Orleans Saints win the Super Bowl?",
+        "answer": "c",
+        "options": {
+            "a": "2008",
+            "b": "2010",
+            "c": "2009",
+            "d": "2011"
+        }
+    },
+    {
+        "id": 98,
+        "question": "This Canadian television sportscaster is known for his &quot;Hockey Night in Canada&quot; role, a commentary show hockey games.",
+        "answer": "b",
+        "options": {
+            "a": "Don McKellar",
+            "b": "Don Cherry",
+            "c": "Don Taylor ",
+            "d": "Donald Sutherland"
+        }
+    },
+    {
+        "id": 99,
+        "question": "Which team has won the most Stanley Cups in the NHL?",
+        "answer": "a",
+        "options": {
+            "a": "Montreal Canadians",
+            "b": "Chicago Blackhawks",
+            "c": "Toronto Maple Leafs",
+            "d": "Detroit Red Wings"
+        }
+    },
+    {
+        "id": 100,
+        "question": "When was the first official international game played?",
+        "answer": "b",
+        "options": {
+            "a": "1880",
+            "b": "1872",
+            "c": "1863",
+            "d": "1865"
+        }
+    },
+    {
+        "id": 101,
+        "question": "In the TV show &quot;Cheers&quot;, Sam Malone was a former relief pitcher for which baseball team?",
+        "answer": "a",
+        "options": {
+            "a": "Boston Red Sox",
+            "b": "New York Mets",
+            "c": "Baltimore Orioles",
+            "d": "Milwaukee Brewers"
+        }
+    },
+    {
+        "id": 102,
+        "question": "Grant Gustin plays which superhero on the CW show of the same name?",
+        "answer": "c",
+        "options": {
+            "a": "The Arrow",
+            "b": "Black Canary",
+            "c": "The Flash",
+            "d": "Daredevil"
+        }
+    },
+    {
+        "id": 103,
+        "question": "In the show, Doctor Who, what does T.A.R.D.I.S stand for?",
+        "answer": "d",
+        "options": {
+            "a": "Time And Resting Dimensions In Space",
+            "b": "Time And Relative Dimensions In Style",
+            "c": "Toilet Aid Rope Dog Is Soup",
+            "d": "Time And Relative Dimensions In Space"
+        }
+    },
+    {
+        "id": 104,
+        "question": "Guy&#039;s Grocery Games is hosted by which presenter?",
+        "answer": "c",
+        "options": {
+            "a": "Guy Martin",
+            "b": "Guy Ritchie",
+            "c": "Guy Fieri",
+            "d": "Ainsley Harriott"
+        }
+    },
+    {
+        "id": 105,
+        "question": "The &quot;Psycho&quot; series of videos on YouTube was created by which of the following?",
+        "answer": "d",
+        "options": {
+            "a": "Dan Bell",
+            "b": "Billy Familia",
+            "c": "VeganGainz",
+            "d": "RiDGiD STUDiOS"
+        }
+    },
+    {
+        "id": 106,
+        "question": "What country is Cory in the House set in?",
+        "answer": "a",
+        "options": {
+            "a": "The United States of America",
+            "b": "Canada",
+            "c": "Venezuala",
+            "d": "England"
+        }
+    },
+    {
+        "id": 107,
+        "question": "In Game of Thrones, what continent lies across the Narrow Sea from Westeros?",
+        "answer": "c",
+        "options": {
+            "a": "Easteros",
+            "b": "Westereast",
+            "c": "Essos",
+            "d": "Esuntos"
+        }
+    },
+    {
+        "id": 108,
+        "question": "When did the TV show Rick and Morty first air on Adult Swim?",
+        "answer": "b",
+        "options": {
+            "a": "2014",
+            "b": "2013",
+            "c": "2016",
+            "d": "2015"
+        }
+    },
+    {
+        "id": 109,
+        "question": "In the television show Breaking Bad, what is the street name of Walter and Jesse&#039;s notorious product?",
+        "answer": "b",
+        "options": {
+            "a": "Baby Blue",
+            "b": "Blue Sky",
+            "c": "Rock Candy",
+            "d": "Pure Glass"
+        }
+    },
+    {
+        "id": 110,
+        "question": "In the show &quot;Tengen Toppa Gurren Lagann&quot; what is the name of the character who force everyone to live ground?",
+        "answer": "d",
+        "options": {
+            "a": "Kingloname",
+            "b": "Lord Genome",
+            "c": "King Loname",
+            "d": "Lordgenome"
+        }
+    },
+    {
+        "id": 111,
+        "question": "In Star Trek: The Next Generation, what is the name of Data&#039;s cat?",
+        "answer": "a",
+        "options": {
+            "a": "Spot",
+            "b": "Mittens",
+            "c": "Tom",
+            "d": "Kitty"
+        }
+    },
+    {
+        "id": 112,
+        "question": "In season one of the Netflix political drama &quot;House of Cards&quot;, what government position does Frank d hold?",
+        "answer": "c",
+        "options": {
+            "a": "Attorney General",
+            "b": "President",
+            "c": "House Majority Whip",
+            "d": "Chief of Staff"
+        }
+    },
+    {
+        "id": 113,
+        "question": "In &quot;Breaking Bad&quot;, Walter White is a high school teacher diagnosed with which form of cancer?",
+        "answer": "b",
+        "options": {
+            "a": "Prostate Cancer",
+            "b": "Lung Cancer",
+            "c": "Brain Cancer",
+            "d": "Testicular Cancer"
+        }
+    },
+    {
+        "id": 114,
+        "question": "British actor David Morrissey stars as which role in &quot;The Walking Dead&quot;?",
+        "answer": "a",
+        "options": {
+            "a": "The Governor",
+            "b": "Negan",
+            "c": "Rick Grimes",
+            "d": "Daryl Dixon"
+        }
+    },
+    {
+        "id": 115,
+        "question": "Which of these Disney shows is classified as an anime?",
+        "answer": "c",
+        "options": {
+            "a": "Cory in the House",
+            "b": "The Emperor&#039;s New School",
+            "c": "Stitch!",
+            "d": "Hannah Montana"
+        }
+    },
+    {
+        "id": 116,
+        "question": "When Donkey Kong died in the &quot;Donkey Kong Country&quot; episode &quot;It&#039;s a Wonderful Life&quot;, who was his ardian angel?",
+        "answer": "c",
+        "options": {
+            "a": "Kiddy Kong",
+            "b": "Diddy Kong",
+            "c": "Eddie the Mean Old Yeti",
+            "d": "King K. Rool"
+        }
+    },
+    {
+        "id": 117,
+        "question": "How many seasons did the Sci-Fi television show &quot;Stargate Atlantis&quot; have?",
+        "answer": "d",
+        "options": {
+            "a": "10",
+            "b": "2",
+            "c": "7",
+            "d": "5"
+        }
+    },
+    {
+        "id": 118,
+        "question": "In the TV show &quot;Mad Men&quot;, what was Donald Draper&#039;s birthname?",
+        "answer": "d",
+        "options": {
+            "a": "Donald Draper",
+            "b": "John Ashbury",
+            "c": "Michael &quot;Mikey&quot; Wilhelm",
+            "d": "Richard &quot;Dick&quot; Whitman"
+        }
+    },
+    {
+        "id": 119,
+        "question": "Which actor portrays &quot;Walter White&quot; in the series &quot;Breaking Bad&quot;?",
+        "answer": "c",
+        "options": {
+            "a": "Andrew Lincoln",
+            "b": "Aaron Paul",
+            "c": " Bryan Cranston",
+            "d": "RJ Mitte"
+        }
+    },
+    {
+        "id": 120,
+        "question": "Which of the following won the first season of American Idol in 2002?",
+        "answer": "b",
+        "options": {
+            "a": "Justin Guarini",
+            "b": "Kelly Clarkson",
+            "c": "Ruben Studdard",
+            "d": "Chris Daughtry"
+        }
+    }
+]
